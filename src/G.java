@@ -8,6 +8,7 @@ public class G {
 
         System.out.println(  strr1.toUpperCase());
 
+//nmvbvvb
 
 
     }
