@@ -6,6 +6,8 @@ import java.util.*;
 public class Arraysort {
 
 
+    //sorting pgm:
+
     public static void main(String[] args) {
 
 //
